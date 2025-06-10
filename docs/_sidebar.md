@@ -1,9 +1,10 @@
-<!-- docs/_sidebar.md -->
-
-- [Home](/)
+- [Home](/?id=agendafcte)
 - [Projetos](/Projeto/Projeto.md)
 
-- [4. Desenho de Software (Arquitetura & Reutilização de Software)](/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
-  - [4.1. DAS](/ArquiteturaReutilizacao/4.1.DAS.md)
-  - [4.2. Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
-  - [4.3. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
+- [4. Desenho de Software (Arquitetura & Reutilização de Software)](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
+  - [4.1. DAS](ArquiteturaReutilizacao/4.1.DAS.md)
+  - [4.2. Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
+  - [4.3. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
+  - [4.4. Cronograma](ArquiteturaReutilizacao/4.4.Cronograma/4.4.Cronograma.md)
+    - [4.4.1. Cronograma Planejado](ArquiteturaReutilizacao/4.4.Cronograma/4.4.1.CronogramaPlanejado.md)
+    - [4.4.2. Cronograma Executado](ArquiteturaReutilizacao/4.4.Cronograma/4.4.2.CronogramaExecutado.md)
