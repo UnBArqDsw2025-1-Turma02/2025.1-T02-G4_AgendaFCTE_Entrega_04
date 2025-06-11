@@ -2,6 +2,18 @@
 
 Esta seção apresenta estimativas de armazenamento, tráfego e desempenho para a plataforma de eventos, com base na estrutura do banco de dados fornecida. O objetivo é garantir um sistema escalável e com boa experiência para o usuário.
 
+## Metodologia
+
+As estimativas de tamanho, tráfego e desempenho apresentadas neste documento foram elaboradas a partir de uma abordagem multifacetada, visando fornecer projeções realistas e fundamentadas para o planejamento da infraestrutura da plataforma de eventos.
+
+- **estimativas de tamanho do banco de dados** foram calculadas com base na estrutura detalhada vinda da nossa modelagem completa do banco de dados da plataforma, que pode ser consultada em: [Modelagem](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-G4_AgendaFCTE_Entrega_03/#/./PadroesDeProjeto/iniciativasExtras/modelagem_banco/modelagem).
+
+- **estimativa do tráfego de rede**, foram modelados cenários de uso típicos e realistas dos usuários (e.g., acessos diários, volume de requisições, uploads), com base em padrões de comportamento de usuários em plataformas de eventos similares.
+
+- **metas de desempenho** foram estabelecidas considerando os requisitos de uma boa experiência do usuário para aplicações web modernas, bem como benchmarks de mercado para sistemas de eventos. Foram definidos limites máximos de tempo de resposta para operações críticas e a capacidade de usuários simultâneos, visando garantir a escalabilidade e a responsividade da plataforma.
+
+É fundamental ressaltar que todas as estimativas são baseadas em **premissas iniciais** e podem ser ajustadas conforme a evolução do projeto, o comportamento real dos usuários e as estratégias de otimização implementadas. A precisão dessas projeções depende diretamente da acuracidade das premissas de volume e uso da plataforma.
+
 ## Estimativas de Tamanho do Banco de Dados
 
 ### Tabela: usuario
@@ -234,4 +246,4 @@ Esta seção apresenta estimativas de armazenamento, tráfego e desempenho para 
 
 | Versão | Data | Descrição | Autor | Revisor | Comentário do Revisor |
 | -- | -- | -- | -- | -- | -- |
-| `1.0`  | 10/06/2025  | Criação do Documento Inicial| [Thales Euflauzino](https://github.com/thaleseuflauzino) e [](https://github.com/thaleseuflauzino) |  |  |
+| `1.0`  | 10/06/2025  | Criação do Documento Inicial| [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Bernardes](https://github.com/VHbernardes) |  |  |
