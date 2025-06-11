@@ -32,4 +32,4 @@ O AgendaFCTE é um web‑app que centraliza todos os eventos da FCTE em um só l
 
 | Versão | Data | Descrição | Autor | Revisor | Comentário do Revisor |
 | -- | -- | -- | -- | -- | -- |
-| `1.0` | 10/05/2025 | Criação do documento |  [Víctor Schmidt](https://github.com/moonshinerd) | |  |
+| `1.0` | 10/05/2025 | Criação do documento |  [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Parabéns pela estruturação! |
