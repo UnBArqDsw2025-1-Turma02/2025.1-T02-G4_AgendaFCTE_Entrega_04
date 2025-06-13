@@ -246,4 +246,4 @@ As estimativas de tamanho, tráfego e desempenho apresentadas neste documento fo
 
 | Versão | Data | Descrição | Autor | Revisor | Comentário do Revisor |
 | -- | -- | -- | -- | -- | -- |
-| `1.0`  | 10/06/2025  | Criação do Documento Inicial| [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Bernardes](https://github.com/VHbernardes) |  |  |
+| `1.0`  | 10/06/2025  | Criação do Documento Inicial| [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Bernardes](https://github.com/VHbernardes) | [João Lucas](https://github.com/joaolucas102) | Muito bem escrito, aprovado |
