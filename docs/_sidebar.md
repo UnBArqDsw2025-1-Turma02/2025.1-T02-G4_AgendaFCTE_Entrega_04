@@ -4,6 +4,7 @@
 - [4. Desenho de Software (Arquitetura & Reutilização de Software)](./ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
   - [4.1. DAS](./ArquiteturaReutilizacao/4.1.DAS.md)
     - [4.1.7 Visualização do Deploy](./ArquiteturaReutilizacao/4.1.7.VisualizacaoDeploy.md)
+    - [4.1.10. Tamanho e Performance](./ArquiteturaReutilizacao/TamanhoEPerformance.md)
   - [4.2. Reutilização de Software](./ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
   - [4.3. Participações - Arquitetura & Reutilização de Software](./ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
   - [4.4. Cronograma](./ArquiteturaReutilizacao/4.4.Cronograma/4.4.Cronograma.md)
