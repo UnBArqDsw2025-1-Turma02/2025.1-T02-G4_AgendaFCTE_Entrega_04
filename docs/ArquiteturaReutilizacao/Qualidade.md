@@ -46,4 +46,4 @@ Atributos de qualidade que não são diretamente percebidos pelos usuários, mas
 
 | Versão | Data | Descrição | Autor | Revisor | Comentário do Revisor |
 | -- | -- | -- | -- | -- | -- |
-| `1.0`  | 23/06/2025  | Criação do Documento Inicial e elaboração do conteúdo| [Pedro Lopes](https://github.com/pLopess) e [Alexandre Júnior](https://github.com/AlexandreLJr) |  |  |
+| `1.0`  | 23/06/2025  | Criação do Documento Inicial e elaboração do conteúdo| [Pedro Lopes](https://github.com/pLopess) e [Alexandre Júnior](https://github.com/AlexandreLJr) | [Rayene Almeida ](https://github.com/rayenealmeida) | 23/06/2025 |
