@@ -101,5 +101,5 @@ O Diagrama de Pacotes é utilizado para organizar e agrupar elementos do sistema
 
 | Versão | Data | Descrição | Autor | Revisor | Comentário do Revisor |
 | -- | -- | -- | -- | -- | -- |
-| `1.0`  | 11/06/2025  | Criação do Documento Inicial | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |  |
-| `1.1`  | 11/06/2025  | Adicionando os artefatos lógicos produzidos na etapa 2 | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |  |
+| `1.0`  | 11/06/2025  | Criação do Documento Inicial | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Rayene Almeida ](https://github.com/rayenealmeida) |  19/06/2025 |
+| `1.1`  | 11/06/2025  | Adicionando os artefatos lógicos produzidos na etapa 2 | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Rayene Almeida ](https://github.com/rayenealmeida)  | 19/06/2025 |
