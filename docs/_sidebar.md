@@ -4,6 +4,7 @@
 - [4. Desenho de Software (Arquitetura & Reutilização de Software)](./ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
   - [4.1. DAS](./ArquiteturaReutilizacao/4.1.DAS.md)
     - [4.1.2. Representação Arquitetural](./ArquiteturaReutilizacao/4.1.2.RepresentacaoArquitetural.md)
+    - [4.1.3. Metas e Restrições arquiteturais](./ArquiteturaReutilizacao/4.1.3.Metas_Restricoes.md)
     - [4.1.5. Visualização Lógica](./ArquiteturaReutilizacao/VisualizacaoLogica.md)
     - [4.1.6. Visualização de Processo](./ArquiteturaReutilizacao/4.1.6.VisualizacaoProcesso.md)
     - [4.1.7. Visualização do Deploy](./ArquiteturaReutilizacao/4.1.7.VisualizacaoDeploy.md)
