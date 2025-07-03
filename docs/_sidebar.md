@@ -13,6 +13,7 @@
     - [4.1.6. Visualização de Processo](./ArquiteturaReutilizacao/4.1.6.VisualizacaoProcesso.md)
     - [4.1.7. Visualização do Deploy](./ArquiteturaReutilizacao/4.1.7.VisualizacaoDeploy.md)
     - [4.1.8. Visualização de Implementação](./ArquiteturaReutilizacao/4.1.8.VisualizacaoImplementacao.md)
+    - [4.1.9. Visualização de Dados](./ArquiteturaReutilizacao/4.1.9.VisualizacaoDados.md)
 
     - [4.1.10. Tamanho e Performance](./ArquiteturaReutilizacao/TamanhoEPerformance.md)
     - [4.1.11. Qualidade](./ArquiteturaReutilizacao/Qualidade.md)
